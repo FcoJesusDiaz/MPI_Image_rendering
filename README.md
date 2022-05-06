@@ -2,12 +2,12 @@
 Image rendering using MPI. Code made by Francisco Jesús Díaz Pellejero.
 
 ## Create obj and exec directories neccesary to compile
-	- make dirs
+	 make dirs
 ## Compile 
-	- make compile
+	 make compile
 ## Create directories and compile
-	- make all
+	 make all
 ## Clean obj and exec directories
-	- make clean
+	 make clean
 ## Execute
-	- make test
+	 make test
